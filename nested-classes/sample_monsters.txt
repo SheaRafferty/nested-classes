@@ -1,0 +1,7 @@
+Wolf,50,5,5
+Rat King,30,3,3
+Great Lizard,40,4,4
+Lesser Lizard,100,10,10
+King Penguin, 64,6,46
+Killer Wasp,86,6,6
+Bandit,30,2,3
